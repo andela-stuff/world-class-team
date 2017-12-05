@@ -3,8 +3,8 @@
 
 ## Introduction
 * *I introduce myself, plus one fun fact.*
-* `Everyone introduces themselves, plus one fun fact about them.`
-* I give out my contact info ([twitter](https://twitter.com/franklin_chieze), [github](https://github.com/Chieze-Franklin), [instagram](Franklin, https://www.instagram.com/franklinchieze/), [facebook](https://www.facebook.com/franklin.chieze.5) ...), ask them to like, follow, star, PR (even to add stuff they learn here that I didn’t implement in those projects)
+* *Everyone introduces themselves, plus one fun fact about them.*
+* *I give out my contact info* ([twitter](https://twitter.com/franklin_chieze), [github](https://github.com/Chieze-Franklin), [instagram](https://www.instagram.com/franklinchieze/), [facebook](https://www.facebook.com/franklin.chieze.5) ...), *ask them to like, follow, star, PR (even to add stuff they learn here that I didn’t implement in those projects)*
 
 ## Purpose of this program
 * The purpose of this program is to introduce you to some best practices in software development.
