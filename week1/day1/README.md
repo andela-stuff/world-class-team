@@ -1,4 +1,4 @@
-## Goal for the day
+## Goals for the day
 * To give you an overview of what this program is about.
 
 ## Introduction
