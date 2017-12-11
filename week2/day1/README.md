@@ -5,9 +5,15 @@ _____Day 1_____
 //as usual, there are other tools (Bit Bucket instead of GitHub, Asana/Trello instead of PT (but they can’t really compare with PT))
 _____Day 2_____
 //code linting
+//gulp,grunt
+//webpack
+//using ES6+
+//take home: add chores to PT to implement webpack,...
 _____Day 3_____
 //code testing (focus on unit tests)
 //TDD
+//code coverage (code climate, coveralls)
+//take home: add chores to PT to implement coveralls, code climate
 
 =====WEEK 3====
 _____Day 1_____
