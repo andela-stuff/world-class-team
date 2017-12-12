@@ -1,6 +1,3 @@
-//communication tools: Hangout (etiquette (like muting ur mic when not speaking))
-//take-home: read on GitHub, PT
-
 ## Goals for the day
 * To discuss some of the communication tools used by world-class teams.
 
