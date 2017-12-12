@@ -21,15 +21,15 @@
 ## Take-home
 * Create Slack channels for stand-ups and reflections.
 > __Slack format for stand-ups post:__
-> `*Last 24 Hours*`
-> `- Something I achieved`
-> `- Something else I achieved`
->
-> `*Next 24 Hours*`
-> `- Something I hope to achieve`
-> `- Something else I hope to achieve`
->
-> `*Blockers*`
-> `- Something blocking my progress`
-> `- Something else blocking my progress`
+>> `*Last 24 Hours*`
+>> `- Something I achieved`
+>> `- Something else I achieved`
+>>
+>> `*Next 24 Hours*`
+>> `- Something I hope to achieve`
+>> `- Something else I hope to achieve`
+>>
+>> `*Blockers*`
+>> `- Something blocking my progress`
+>> `- Something else blocking my progress`
 * Read on Git
