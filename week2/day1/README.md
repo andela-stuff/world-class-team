@@ -3,6 +3,12 @@ _____Day 1_____
 //collaboration tools: GitHub (basics, branching, PR, merging,…), pivotal tracker (provide links)
 // talk about how PT helps them be Agile (creating sprints, predicting task duration,…)
 //as usual, there are other tools (Bit Bucket instead of GitHub, Asana/Trello instead of PT (but they can’t really compare with PT))
+
+_____Day 2_____
+//integrate PT with Slack
+//integrate Github with Slack
+//integrate PT with Github
+
 _____Day 2_____
 //code linting
 //gulp,grunt
