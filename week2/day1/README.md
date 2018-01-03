@@ -10,6 +10,8 @@ _____Day 2_____
 //integrate PT with Slack
 //integrate Github with Slack
 //integrate PT with Github
+//talk about commit message convention, and how it helps integrate PT with Github (https://github.com/andela-stuff/andela-teams-core/wiki)
+//talk about branch-naming convention, and...(https://github.com/andela-stuff/andela-teams-core/wiki)
 
 _____Day 3_____
 //code linting
