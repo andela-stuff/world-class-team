@@ -9,7 +9,7 @@ _____Day 1_____
 _____Day 2_____
 //integrate PT with Slack
 //integrate Github with Slack
-//integrate PT with Github
+//integrate PT with Github (https://www.pivotaltracker.com/blog/guide-githubs-service-hook-tracker/)
 //talk about commit message convention, and how it helps integrate PT with Github (https://github.com/andela-stuff/andela-teams-core/wiki)
 //talk about branch-naming convention, and...(https://github.com/andela-stuff/andela-teams-core/wiki)
 
