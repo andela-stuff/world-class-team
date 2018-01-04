@@ -7,8 +7,8 @@ _____Day 1_____
 //as usual, there are other tools (Bit Bucket instead of GitHub, Asana/Trello instead of PT (but they can’t really compare with PT))
 
 _____Day 2_____
-//integrate PT with Slack
-//integrate Github with Slack
+//integrate PT with Slack (https://sparksolutions.co/2016/01/slack-integrations-guide-github-pivotal-tracker-circle-ci-heroku-rollbar/)
+//integrate Github with Slack (https://sparksolutions.co/2016/01/slack-integrations-guide-github-pivotal-tracker-circle-ci-heroku-rollbar/)
 //integrate PT with Github (https://www.pivotaltracker.com/blog/guide-githubs-service-hook-tracker/)
 //talk about commit message convention, and how it helps integrate PT with Github (https://github.com/andela-stuff/andela-teams-core/wiki)
 //talk about branch-naming convention, and...(https://github.com/andela-stuff/andela-teams-core/wiki)
