@@ -1,6 +1,7 @@
 ====WEEK 2====
 _____Day 1_____
 //collaboration tools: GitHub (basics, branching, PR, merging,…), pivotal tracker (provide links)
+    important files: README.md, LICENSE, contributing.md, .gitignore
 //talk about how the TTL?/scrum master shud utilize PRs for code review
 //talk about git guidelines we follow at Andela
 // talk about how PT helps them be Agile (creating sprints, predicting task duration,…)
