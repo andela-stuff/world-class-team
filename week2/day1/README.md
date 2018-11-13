@@ -48,3 +48,6 @@ _____Day 2_____
 _____Day 3_____
 //Continuous deployment
 //Continuous deployment with Heroku
+
+=====EXTRA====
+// Scalable architecture (using the Andela Architecture document)
